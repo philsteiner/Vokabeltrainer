@@ -1,2 +1,2 @@
 # Vokabeltrainer
-Application to learn vocabulary and creat vocabulary list (school project)
+Application to learn vocabulary and create vocabulary list (school project)
